@@ -10,7 +10,7 @@ class DoctorAppoinmentApp extends StatelessWidget {
     return  MaterialApp.router(
       title: AppStrings.appName,
       debugShowCheckedModeBanner: false,
-      routerConfig: AppRouter.createRouter(),
+      routerConfig: AppRouter.createRouter,
     );
   }
 }
