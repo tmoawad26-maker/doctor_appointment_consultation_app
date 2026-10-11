@@ -30,4 +30,8 @@ class AppStrings {
   static const String invalidMobilePhone =
       'Enter an 11-digit number starting with 011, 012, or 015';
   static const String alreadyHaveAccount = 'Already have an account?';
+  static const String homeTab = 'Home';
+  static const String appointmentsTab = 'Appointments';
+  static const String messagesTab = 'Messages';
+  static const String profileTab = 'Profile';
 }
